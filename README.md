@@ -2,172 +2,166 @@
 
 # 👋 Hi, I'm **Tanvir Kanoje**
 
-### `Software Engineer in the making • Builder • AI & Cloud Enthusiast`
+### `Computer Science Student • Software Engineer in Progress • Builder`
 
-**I build software, experiment with AI, and turn ideas into working products.**
+**Learning deeply. Building consistently. Shipping real things.**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+useful+software+%F0%9F%9A%80;Learning+DSA+%26+Computer+Science;Exploring+AI+%26+Automation;Building+with+Cloud+%26+Open+Source;Turning+Ideas+into+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Computer+Science+%7C+Software+Engineering;DSA+%7C+Backend+%7C+Cloud;Exploring+AI+%26+Automation;Building+Products%2C+Not+Just+Tutorials;Always+Learning.+Always+Building." alt="Typing SVG" />
 
 <br><br>
 
 <a href="https://tanvirkanoje.in">
-  <img src="https://img.shields.io/badge/Portfolio-tanvirkanoje.in-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-tanvirkanoje.in-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/tanvir-kanoje">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/tanvir-kanoje">
-  <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🧭 About Me
+## 🧑‍💻 Who Am I?
 
-I'm a **Computer Science undergraduate** focused on becoming a strong software engineer while exploring the intersection of **AI, cloud infrastructure, data, and entrepreneurship**.
+I'm a **Computer Science student** interested in understanding how software works from the fundamentals to production.
 
-* 🎓 **B.Tech CSE** — Ramdeobaba University, Nagpur
-* 📊 **BS in Data Science & Applications** — IIT Madras
-* 💻 Currently sharpening **DSA, CS fundamentals, backend development & system design**
-* 🤖 Exploring **AI applications, RAG, automation and intelligent systems**
-* ☁️ Learning to build and deploy with **AWS, Docker and modern cloud infrastructure**
-* 🛠️ Building real projects instead of only collecting tutorials
-* 💡 Interested in **startups, product building and solving real-world problems**
-* 🌱 Long-term goal: become a **technically strong engineer who can also build products and businesses**
+Currently focused on becoming a strong **Software Engineer**, while exploring **AI, Cloud, Data and Product Building**.
 
-> **Learn → Build → Ship → Measure → Improve**
-
----
-
-## ⚡ What I'm Building
-
-I like working at the intersection of **software engineering + AI + real-world problems**.
-
-| Area                        | Current Focus                             |
-| --------------------------- | ----------------------------------------- |
-| 🧠 **Problem Solving**      | DSA, algorithms & competitive programming |
-| 💻 **Software Engineering** | Python, Java, APIs, backend systems       |
-| 🌐 **Web Development**      | Modern full-stack applications            |
-| 🤖 **AI Engineering**       | RAG, LLM applications & automation        |
-| ☁️ **Cloud**                | AWS, Docker, deployment & infrastructure  |
-| 📊 **Data**                 | SQL, Python, analytics & data science     |
-| 🚀 **Product**              | Turning ideas into usable products        |
+* 🎓 B.Tech in **Computer Science & Engineering**
+* 📊 Pursuing **Data Science & Applications**
+* 🧠 Strengthening **DSA & Computer Science fundamentals**
+* 💻 Building with **Python, Java & JavaScript**
+* ☁️ Exploring **AWS, Docker & cloud infrastructure**
+* 🤖 Exploring **AI, LLM applications & automation**
+* 🚀 Interested in **software products, startups & entrepreneurship**
+* 🌱 Constantly learning, experimenting and building
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 Current Focus
+
+```text
+DSA & Problem Solving       █████████░
+Computer Science             ████████░░
+Software Engineering         ███████░░░
+Backend Development          ██████░░░░
+Cloud & DevOps               ██████░░░░
+AI Engineering               █████░░░░░
+Product Building             █████░░░░░
+```
+
+> These are learning priorities — not claims of mastery.
+
+---
+
+## 🛠️ Technologies
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
 </p>
 
-### Development
+### Web & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,fastapi,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,fastapi" />
 </p>
 
-### Data & AI
+### Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-`NumPy` • `Pandas` • `Matplotlib` • `SQL` • `RAG` • `LLM APIs`
+`SQL` • `NumPy` • `Pandas` • `Matplotlib`
 
-### Cloud & Engineering
+### Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postgres" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Things I've Built
 
-### 🧾 LedgerFlow
+### ☁️ Docker + AWS Web Application
 
-**Billing + customer ledger platform for small businesses**
+A containerized Flask application deployed on AWS EC2.
 
-`Next.js` `PostgreSQL` `Prisma` `Cloud`
+**Stack:** `Python` `Flask` `Docker` `AWS`
 
-A product-oriented application focused on simplifying **billing, customer balances and payment tracking**.
-
----
-
-### 🧩 Sudoku Web App
-
-**Interactive browser-based Sudoku application**
-
-`HTML` `CSS` `JavaScript`
-
-A lightweight project focused on **frontend logic, UI interaction and problem-solving algorithms**.
+→ Explore the repository:
+**[docker-aws-webapp](https://github.com/tanvir-kanoje/docker-aws-webapp)**
 
 ---
 
-### ☁️ Cloud & AI Experiments
+### 📊 Data Analysis & Algorithms
 
-A growing collection of experiments involving:
+A growing repository where I practice and document **DSA, algorithms and data-analysis concepts**.
 
-`AWS` • `Docker` • `FastAPI` • `RAG` • `LLMs` • `Automation`
+**Stack:** `Python` `DSA` `NumPy` `Pandas`
 
-> Some projects are experiments. Some become products.
-> The goal is always to **ship something real**.
-
----
-
-## 📚 Currently Learning
-
-```text
-DSA ──────────────── █████████░  90%
-Computer Science ─── ████████░░  80%
-Backend Development ─ ███████░░░  70%
-Cloud / AWS ──────── ██████░░░░  60%
-AI Engineering ───── ██████░░░░  60%
-System Design ────── ████░░░░░░  40%
-```
-
-*Progress bars are directional, not a claim of mastery.*
+→ Explore:
+**[Data-Analysis-Algorithms](https://github.com/tanvir-kanoje/Data-Analysis-Algorithms)**
 
 ---
 
-## 🧠 Engineering Philosophy
+### 🌐 Web Development
 
-I don't want to become someone who only knows how to use frameworks.
+A collection of my web-development experiments and projects while learning modern web technologies.
+
+→ Explore:
+**[Web-Development](https://github.com/tanvir-kanoje/Web-Development)**
+
+---
+
+## 🧠 My Engineering Approach
+
+I don't want to simply learn frameworks.
 
 I want to understand:
 
-**How systems work → why they work → how to build them → how to scale them.**
+**Fundamentals → Systems → Implementation → Deployment → Scale**
 
-That's why I'm deliberately investing time in:
+That's why I'm focusing on:
 
-**DSA + CS Fundamentals + Software Engineering + Cloud + AI + Product Thinking**
+`DSA` → `CS Fundamentals` → `Software Engineering` → `Cloud` → `AI` → `Products`
 
 ---
 
-## 📈 GitHub Activity
+## 🎯 What I'm Working Towards
+
+**Short term**
+
+Become an excellent software engineer with strong fundamentals, problem-solving ability and real project experience.
+
+**Long term**
+
+Build technology that solves meaningful problems — and eventually turn some of those solutions into products and businesses.
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=tanvir-kanoje&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=tanvir-kanoje&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tanvir-kanoje&layout=compact&hide_border=true&theme=transparent" height="170"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tanvir-kanoje&layout=compact&hide_border=true&theme=transparent" height="165"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=tanvir-kanoje&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=tanvir-kanoje&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌐 Find Me
+## 🌐 Connect
 
 <div align="center">
 
@@ -176,11 +170,11 @@ That's why I'm deliberately investing time in:
 </a>
 
 <a href="https://www.linkedin.com/in/tanvir-kanoje">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/tanvir-kanoje">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -189,12 +183,8 @@ That's why I'm deliberately investing time in:
 
 <div align="center">
 
-### ⚡ Build things that matter.
+### ⚡ **Learn. Build. Ship. Improve.**
 
-**Learning today. Building tomorrow. Shipping continuously.**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=tanvir-kanoje&label=Profile%20Views&color=3B82F6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=tanvir-kanoje&label=Profile%20Views&color=3B82F6&style=flat"/>
 
 </div>
